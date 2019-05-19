@@ -1,2 +1,3 @@
-# demo1
-esta es solo una prueba
+# Ejemplo Simple de Repositorio
+
+Este es sólo un ejemplo de repository mientras estudio
